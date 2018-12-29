@@ -1,9 +1,9 @@
 # DMCA
 Copyright claims(DMCA)，Submit a DMCA takedown for any repository. 
 
-#### Copyright claims, 版权举报
-
 版权报告, 请在这里提交DMCA删除要求。
+
+#### Copyright claims, 版权举报
 
 Please click [issues](https://github.com/PubFork/DMCA/issues) to submit a DMCA takedown notice. We will receive emails during office hours and delete the repository on your submission request.
 
