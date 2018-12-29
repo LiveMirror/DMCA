@@ -9,6 +9,10 @@ Please click [issues](https://github.com/PubFork/DMCA/issues) to submit a DMCA t
 
 请点击[issues](https://github.com/PubFork/DMCA/issues)提交一个DMCA版权举报通知，我们将时刻接收您的举报邮件，并尽快到达办公室后第一时间删除您举报的仓库。
 
+You also can send an mail to 638781@qq.com for more help.
+
+您也可以发邮件到638781@qq.com通知删除。
+
 #### Thanks, 鸣谢
 Thanks to everyone in the open source community for giving us so much knowledge and learning opportunities.
 
